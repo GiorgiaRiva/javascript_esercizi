@@ -1,5 +1,5 @@
-///es1
 
+///es1
 var num = 65;
 console.log("numero:", num);
 function ControllaNumero(num){
@@ -15,13 +15,13 @@ function ControllaNumero(num){
 }
 
 ///es2
-
 var num1 = 10;
 while (num1 > 0){
     num1--;
     console.log(num1);
 }
 console.log("BOOM");
+
 ///es3
 let lista = [3,6,1, 9];
 lista.push(5);
